@@ -7,6 +7,7 @@ Setup, tooling and other bits & pieces that I use.
     - [Activitus Bar](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar)
     - [Atom Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings)
     - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+    - [GitHub Actions](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions)
     - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
     - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
     - [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
