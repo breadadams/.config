@@ -22,6 +22,7 @@ Setup, tooling and other bits & pieces that I use.
 - [iTerm2](https://iterm2.com/)
   - [Oh My Zsh](https://ohmyz.sh/)
     - [powerlevel10k](https://github.com/romkatv/powerlevel10k)
+  - [_Tomorrow Night Burns_ color scheme](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/schemes/Tomorrow%20Night%20Burns.itermcolors) 
 - [FiraCode font](https://github.com/tonsky/FiraCode)
 - [Google Chrome](https://www.google.com/chrome/)
   - Extensions:
