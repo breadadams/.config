@@ -22,6 +22,13 @@ Setup, tooling and other bits & pieces that I use.
   - [Oh My Zsh](https://ohmyz.sh/)
     - [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - [FiraCode font](https://github.com/tonsky/FiraCode)
+- [Google Chrome](https://www.google.com/chrome/)
+  - Extensions:
+    - [AdBlock](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom)
+    - [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
+    - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+    - [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
+    - [Screen Reader](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn)
 
 
 ## Visual Studio Code configuration
